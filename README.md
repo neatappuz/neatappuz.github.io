@@ -1,2 +1,3 @@
 # neatappuz.github.io
-Website neatappuz
+Website neatappuz.github.io
+neat automation
